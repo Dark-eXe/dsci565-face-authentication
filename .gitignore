@@ -1,5 +1,6 @@
 # Data file
 data/lfw-deepfunneled
+src/fig2.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
