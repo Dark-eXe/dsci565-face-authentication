@@ -1,6 +1,9 @@
 # Data file
 data/lfw-deepfunneled
 
+# Models (too large to push onto remote)
+.keras
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
