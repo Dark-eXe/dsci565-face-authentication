@@ -1,8 +1,8 @@
 # Data file
 data/lfw-deepfunneled
 
-# Models (too large to push onto remote)
-src/.keras
+# Model (too large to push onto remote)
+src/model.keras
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
