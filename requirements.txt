@@ -5,3 +5,4 @@ seaborn
 tensorflow
 keras
 torch
+deepface
